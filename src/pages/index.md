@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Great Cheese
 image: /img/cat.jpg
 heading: Jackie's testing site
-subheading: Support sustainable farming while enjoying a cup
+subheading: Cheese cheese cheese
 mainpitch:
-  title: Why Kaldi
+  title: Why Cheese
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
