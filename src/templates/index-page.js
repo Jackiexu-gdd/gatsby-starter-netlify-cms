@@ -15,7 +15,9 @@ export const IndexPageTemplate = ({
   description,
   intro,
 }) => (
+
   <div>
+    
     <div
       className="full-width-image margin-top-0"
       style={{
@@ -26,6 +28,8 @@ export const IndexPageTemplate = ({
         backgroundAttachment: `fixed`,
       }}
     >
+      
+        
       <div
         style={{
           display: 'flex',
